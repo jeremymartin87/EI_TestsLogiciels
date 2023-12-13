@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ContactTest::testCreateContact":8,"ContactRepositoryTest::testAjouterContact":8,"ContactRepositoryTest::testGetAllContacts":8,"ContactRepositoryTest::testGetContactById":8,"ContactRepositoryTest::testMettreAJourContact":8,"ContactRepositoryTest::testSupprimerContact":8},"times":{"ContactTest::testCreateContact":0.012}}
